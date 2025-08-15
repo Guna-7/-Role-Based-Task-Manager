@@ -35,7 +35,7 @@ The application enforces strict **role-based access control**, where **Managers*
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 
 django-role-based-task-manager/
 ├── tasks/              # App for task management
